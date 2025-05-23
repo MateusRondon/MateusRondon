@@ -27,7 +27,14 @@ Desenvolvi um sistema com microcontrolador **ESP32** conectado a um sensor de ba
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=fff)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=fff)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=fff)
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=fff)
 ![ESP32](https://img.shields.io/badge/-ESP32-000?logo=espressif&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=fff)
 
 ## 🤖 Hobbies
 

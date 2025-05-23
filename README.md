@@ -44,4 +44,3 @@ Desenvolvi um sistema com microcontrolador **ESP32** conectado a um sensor de ba
 
 ---
 
-Se quiser entrar em contato ou trocar ideias sobre tecnologia, fique à vontade para me chamar!

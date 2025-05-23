@@ -39,6 +39,7 @@ Desenvolvi um sistema com microcontrolador **ESP32** conectado a um sensor de ba
 ## 🤖 Hobbies
 
 - 📖 Ler livros de ficção científica
+- 🎻Tenho experiência e dedicação no violino, piano e flauta, explorando diferentes estilos e sonoridades.
 - 💡 Programar projetos pessoais (jogos, sistemas de cadastro, automações)
 - 🚀 Explorar novas linguagens e ferramentas
 
